@@ -1,0 +1,3 @@
+resolusi 2024 azis 
+- memahami github
+- memahami javascript
