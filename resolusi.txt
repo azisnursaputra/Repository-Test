@@ -2,4 +2,6 @@ resolusi 2024 azis
 - memahami github
 - memahami javascript
 - memahami dom
+- memahami framework 
+- memahami golang
 
