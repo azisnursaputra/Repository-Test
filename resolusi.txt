@@ -2,6 +2,7 @@ resolusi 2024 azis
 - memahami github
 - memahami javascript
 - memahami dom
-- memahami Golang
 - memahami karakteristik postgresql
+- memahami framework 
+- memahami golang
 
